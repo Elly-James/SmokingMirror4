@@ -1,0 +1,70 @@
+html {
+  font-size: 18px;
+}
+h3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 4.44rem;
+    padding: 0 12%;
+   
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
+    font-family: Verdana, sans-serif;
+    font-size: .77rem;
+    font-weight: bold;
+  }
+ h3.logo {
+    flex-grow: 1;
+    color: white;
+  }
+  
+  h3 li {
+    display: inline;
+    padding-right: 2.22rem;
+  }
+  
+  h3 li a {
+    text-decoration: none;
+    color: white;
+  }
+ 
+body{
+  background: url("https://img.freepik.com/free-photo/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration_35913-2291.jpg?t=st=1718704737~exp=1718708337~hmac=a4c00d4e74108bb89dd63f6fd52004402c25bd3c741d70aa5ffa23a88d0246fe&w=740")
+
+}
+h3{
+  color: white;
+
+}
+h3:hover{
+  color: blue;
+  cursor: pointer;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-size: 65px;
+}
+
+
+p{
+  color: white;
+}
+
+
+
+footer {
+    display: flex;
+    align-items: center;
+    padding: 0.1%;
+    line-height: 1.5;
+  }
+
+  
+footer p {
+    padding-bottom: 1.66rem;
+    padding-left: 8.00rem;
+    align-items: center;
+  }
+  
